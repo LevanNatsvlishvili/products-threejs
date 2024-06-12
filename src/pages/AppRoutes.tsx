@@ -1,8 +1,8 @@
 import { paths } from '@/routing/Paths';
 // import Home from './Home';
 import DragAndDropAnime from './DragAndDropAnime';
-import AdminPanel from './AdminPanel';
-import GraphicAnimation from './GraphicAnimation';
+// import AdminPanel from './AdminPanel';
+// import GraphicAnimation from './GraphicAnimation';
 
 const AppRoutes = [
   // {
